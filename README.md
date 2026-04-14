@@ -1,24 +1,8 @@
-## Jelle Middendorf | Lv1Skeleton | Gentle Tyrant Studio
+## Jelle Middendorf · Lv1Skeleton · Gentle Tyrant Studio
 
-Building **Project Giza**.
-Learning **Astro & Vue**.
-Playing **Factorio**.
+🎮 Building **Project Giza**
+📖 Learning **Astro & Vue**
+🕹️ Playing **Factorio**
 
-🌐 [gentletyrantstudio.com](https://gentletyrantstudio.com)
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/gentletyrantstudio)
-
-<!--
-**jellemiddendorf/jellemiddendorf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Website](https://img.shields.io/badge/gentletyrantstudio.com-ffe177?style=for-the-badge&logoColor=0A0A0A)](https://gentletyrantstudio.com)
+[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/gentletyrantstudio)
