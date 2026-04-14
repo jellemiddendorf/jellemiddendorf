@@ -1,4 +1,12 @@
-## Hi there 👋
+## Jelle Middendorf | Lv1Skeleton | Gentle Tyrant Studio
+
+Building **Project Giza**.
+Learning **Astro & Vue**.
+Playing **Factorio**.
+
+🌐 [gentletyrantstudio.com](https://gentletyrantstudio.com)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/gentletyrantstudio)
 
 <!--
 **jellemiddendorf/jellemiddendorf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
